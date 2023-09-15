@@ -1,0 +1,1404 @@
+value,model,zone,resource_name,tech_type,planning_year,case,timestep,unit
+610745.2714,SWITCH,BASN,BASN_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,BASN,BASN_battery_moderate_1,Battery,2030,cap_only,all,MWh
+358584,SWITCH,BASN,BASN_biomass_1,Other,2030,cap_only,all,MWh
+11527150.36,SWITCH,BASN,BASN_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,BASN,BASN_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+6750342.144,SWITCH,BASN,BASN_geothermal_1,Geothermal,2030,cap_only,all,MWh
+108663175.2,SWITCH,BASN,BASN_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+0,SWITCH,BASN,BASN_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+474556.2743,SWITCH,BASN,BASN_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,BASN,BASN_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,BASN,BASN_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,BASN,BASN_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,BASN,BASN_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,BASN,BASN_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,BASN,BASN_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+4667960.598,SWITCH,BASN,BASN_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+103604.544,SWITCH,BASN,BASN_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+3137097.6,SWITCH,BASN,BASN_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+15788927.11,SWITCH,BASN,BASN_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+2544892.293,SWITCH,CANO,CANO_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,CANO,CANO_battery_moderate_1,Battery,2030,cap_only,all,MWh
+5443716.096,SWITCH,CANO,CANO_biomass_1,Other,2030,cap_only,all,MWh
+24307064.3,SWITCH,CANO,CANO_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+1342329.029,SWITCH,CANO,CANO_hydroelectric_pumped_storage_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,CANO,CANO_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+49172603.2,SWITCH,CANO,CANO_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+969351.0621,SWITCH,CANO,CANO_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,CANO,CANO_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,CANO,CANO_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,CANO,CANO_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,CANO,CANO_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,CANO,CANO_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,CANO,CANO_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+2660126.904,SWITCH,CANO,CANO_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+1468486.656,SWITCH,CANO,CANO_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+4950472.8,SWITCH,CANO,CANO_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+12863359.31,SWITCH,CANO,CANO_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+8980912.72,SWITCH,CASO,CASO_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,CASO,CASO_battery_moderate_1,Battery,2030,cap_only,all,MWh
+2458100.736,SWITCH,CASO,CASO_biomass_1,Other,2030,cap_only,all,MWh
+3225107.948,SWITCH,CASO,CASO_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+1698766.895,SWITCH,CASO,CASO_hydroelectric_pumped_storage_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,CASO,CASO_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+77066545.11,SWITCH,CASO,CASO_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+2885293.33,SWITCH,CASO,CASO_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,CASO,CASO_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,CASO,CASO_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,CASO,CASO_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,CASO,CASO_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,CASO,CASO_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,CASO,CASO_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+14594469.74,SWITCH,CASO,CASO_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+116084.736,SWITCH,CASO,CASO_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+1902176.64,SWITCH,CASO,CASO_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+29501978,SWITCH,CASO,CASO_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+508384.6133,SWITCH,FRCC,FRCC_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_battery_moderate_1,Battery,2030,cap_only,all,MWh
+2170385.218,SWITCH,FRCC,FRCC_biomass_1,Other,2030,cap_only,all,MWh
+161784.087,SWITCH,FRCC,FRCC_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+182375381.4,SWITCH,FRCC,FRCC_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+23535834.7,SWITCH,FRCC,FRCC_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+11807181.96,SWITCH,FRCC,FRCC_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+29460140.24,SWITCH,FRCC,FRCC_nuclear_1,Nuclear,2030,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+1212575.644,SWITCH,FRCC,FRCC_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+13581526.2,SWITCH,FRCC,FRCC_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+232020.4307,SWITCH,ISNE,ISNE_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,ISNE,ISNE_battery_moderate_1,Battery,2030,cap_only,all,MWh
+2844553.484,SWITCH,ISNE,ISNE_biomass_1,Other,2030,cap_only,all,MWh
+2854482.666,SWITCH,ISNE,ISNE_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+3032386.331,SWITCH,ISNE,ISNE_hydroelectric_pumped_storage_1,Hydro,2030,cap_only,all,MWh
+76193120.93,SWITCH,ISNE,ISNE_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+13474294.23,SWITCH,ISNE,ISNE_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+12585252.54,SWITCH,ISNE,ISNE_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+12848.1466,SWITCH,ISNE,ISNE_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+1102.08,SWITCH,ISNE,ISNE_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+408.96,SWITCH,ISNE,ISNE_natural_gas_steam_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,ISNE,ISNE_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,ISNE,ISNE_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,ISNE,ISNE_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+26394299.04,SWITCH,ISNE,ISNE_nuclear_1,Nuclear,2030,cap_only,all,MWh
+0,SWITCH,ISNE,ISNE_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+2234742.468,SWITCH,ISNE,ISNE_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+4164437.745,SWITCH,ISNE,ISNE_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+4787808.48,SWITCH,ISNE,ISNE_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+3907790.418,SWITCH,ISNE,ISNE_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+24006.37782,SWITCH,MISC,MISC_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,MISC,MISC_battery_moderate_1,Battery,2030,cap_only,all,MWh
+730822.7204,SWITCH,MISC,MISC_biomass_1,Other,2030,cap_only,all,MWh
+1997079.869,SWITCH,MISC,MISC_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,MISC,MISC_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+1185511.552,SWITCH,MISC,MISC_hydroelectric_pumped_storage_1,Hydro,2030,cap_only,all,MWh
+129164161.9,SWITCH,MISC,MISC_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+15558627.78,SWITCH,MISC,MISC_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+8048607.714,SWITCH,MISC,MISC_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+36265.75205,SWITCH,MISC,MISC_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+10821.696,SWITCH,MISC,MISC_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+25784.48196,SWITCH,MISC,MISC_natural_gas_steam_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,MISC,MISC_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,MISC,MISC_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,MISC,MISC_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+18707228.47,SWITCH,MISC,MISC_nuclear_1,Nuclear,2030,cap_only,all,MWh
+0,SWITCH,MISC,MISC_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+9242059.547,SWITCH,MISC,MISC_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+1239602.715,SWITCH,MISC,MISC_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+6443067.298,SWITCH,MISC,MISC_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+746.8752544,SWITCH,MISE,MISE_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,MISE,MISE_battery_moderate_1,Battery,2030,cap_only,all,MWh
+955188.6137,SWITCH,MISE,MISE_biomass_1,Other,2030,cap_only,all,MWh
+132228.8438,SWITCH,MISE,MISE_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,MISE,MISE_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+4622443.365,SWITCH,MISE,MISE_hydroelectric_pumped_storage_1,Hydro,2030,cap_only,all,MWh
+90751360.15,SWITCH,MISE,MISE_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+3632136.634,SWITCH,MISE,MISE_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+3633325.749,SWITCH,MISE,MISE_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,MISE,MISE_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,MISE,MISE_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,MISE,MISE_natural_gas_steam_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,MISE,MISE_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,MISE,MISE_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,MISE,MISE_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,MISE,MISE_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+7099640.805,SWITCH,MISE,MISE_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+180970.6032,SWITCH,MISE,MISE_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+134447.04,SWITCH,MISE,MISE_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+1829914.079,SWITCH,MISE,MISE_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+14200.16972,SWITCH,MISS,MISS_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,MISS,MISS_battery_moderate_1,Battery,2030,cap_only,all,MWh
+1532490.377,SWITCH,MISS,MISS_biomass_1,Other,2030,cap_only,all,MWh
+2035629.303,SWITCH,MISS,MISS_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,MISS,MISS_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+130582406.8,SWITCH,MISS,MISS_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+3877579.441,SWITCH,MISS,MISS_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+7056188.1,SWITCH,MISS,MISS_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,MISS,MISS_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,MISS,MISS_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,MISS,MISS_natural_gas_steam_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,MISS,MISS_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,MISS,MISS_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,MISS,MISS_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+42775146.09,SWITCH,MISS,MISS_nuclear_1,Nuclear,2030,cap_only,all,MWh
+0,SWITCH,MISS,MISS_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+137816.64,SWITCH,MISS,MISS_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+303750.72,SWITCH,MISS,MISS_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+3479356.509,SWITCH,MISS,MISS_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+27691.59227,SWITCH,MISW,MISW_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,MISW,MISW_battery_moderate_1,Battery,2030,cap_only,all,MWh
+1396735.751,SWITCH,MISW,MISW_biomass_1,Other,2030,cap_only,all,MWh
+400019.1262,SWITCH,MISW,MISW_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,MISW,MISW_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+116007213.6,SWITCH,MISW,MISW_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+27346755.16,SWITCH,MISW,MISW_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+11486773.96,SWITCH,MISW,MISW_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+1360971.167,SWITCH,MISW,MISW_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+547005.5064,SWITCH,MISW,MISW_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+5243.168547,SWITCH,MISW,MISW_natural_gas_steam_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,MISW,MISW_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,MISW,MISW_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,MISW,MISW_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+23202323.99,SWITCH,MISW,MISW_nuclear_1,Nuclear,2030,cap_only,all,MWh
+0,SWITCH,MISW,MISW_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+50245444.72,SWITCH,MISW,MISW_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+3506319.32,SWITCH,MISW,MISW_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+3097622.82,SWITCH,MISW,MISW_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+4905703.557,SWITCH,MISW,MISW_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+281.9801438,SWITCH,NWPP,NWPP_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_battery_moderate_1,Battery,2030,cap_only,all,MWh
+2056844.544,SWITCH,NWPP,NWPP_biomass_1,Other,2030,cap_only,all,MWh
+151725310.7,SWITCH,NWPP,NWPP_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+258306.048,SWITCH,NWPP,NWPP_geothermal_1,Geothermal,2030,cap_only,all,MWh
+447.4237496,SWITCH,NWPP,NWPP_hydroelectric_pumped_storage_1,Hydro,2030,cap_only,all,MWh
+22077644.26,SWITCH,NWPP,NWPP_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+1118843.663,SWITCH,NWPP,NWPP_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+209779.9588,SWITCH,NWPP,NWPP_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+48604.8,SWITCH,NWPP,NWPP_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+17915616.71,SWITCH,NWPP,NWPP_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+178633.728,SWITCH,NWPP,NWPP_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+5755495.2,SWITCH,NWPP,NWPP_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+2791400.669,SWITCH,NWPP,NWPP_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+31539.90246,SWITCH,NYCW,NYCW_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_battery_moderate_1,Battery,2030,cap_only,all,MWh
+106209.7657,SWITCH,NYCW,NYCW_biomass_1,Other,2030,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+74916016.88,SWITCH,NYCW,NYCW_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+6785981.154,SWITCH,NYCW,NYCW_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+75968.39951,SWITCH,NYCW,NYCW_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+3944.141469,SWITCH,NYCW,NYCW_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+1599062.022,SWITCH,NYCW,NYCW_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+262034.3222,SWITCH,NYCW,NYCW_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+104141.274,SWITCH,NYUP,NYUP_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_battery_moderate_1,Battery,2030,cap_only,all,MWh
+1435364.727,SWITCH,NYUP,NYUP_biomass_1,Other,2030,cap_only,all,MWh
+21304936.29,SWITCH,NYUP,NYUP_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+1605680.279,SWITCH,NYUP,NYUP_hydroelectric_pumped_storage_1,Hydro,2030,cap_only,all,MWh
+10819844.01,SWITCH,NYUP,NYUP_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+1915033.264,SWITCH,NYUP,NYUP_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_natural_gas_steam_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+26608726.61,SWITCH,NYUP,NYUP_nuclear_1,Nuclear,2030,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+6317111.398,SWITCH,NYUP,NYUP_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+543388.5563,SWITCH,NYUP,NYUP_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+4417664.16,SWITCH,NYUP,NYUP_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+2470733.357,SWITCH,NYUP,NYUP_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+26192.58881,SWITCH,PJMC,PJMC_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,PJMC,PJMC_battery_moderate_1,Battery,2030,cap_only,all,MWh
+174831.7196,SWITCH,PJMC,PJMC_biomass_1,Other,2030,cap_only,all,MWh
+39617.80213,SWITCH,PJMC,PJMC_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,PJMC,PJMC_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+10533597.76,SWITCH,PJMC,PJMC_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+30019938.37,SWITCH,PJMC,PJMC_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+9951126.76,SWITCH,PJMC,PJMC_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+2965070.125,SWITCH,PJMC,PJMC_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+96511.43545,SWITCH,PJMC,PJMC_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,PJMC,PJMC_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,PJMC,PJMC_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,PJMC,PJMC_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+51368015.46,SWITCH,PJMC,PJMC_nuclear_1,Nuclear,2030,cap_only,all,MWh
+0,SWITCH,PJMC,PJMC_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+7804719.106,SWITCH,PJMC,PJMC_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+207904.9383,SWITCH,PJMC,PJMC_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+182582.4,SWITCH,PJMC,PJMC_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+488919.3921,SWITCH,PJMC,PJMC_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+35558.96379,SWITCH,PJMD,PJMD_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_battery_moderate_1,Battery,2030,cap_only,all,MWh
+1587862.777,SWITCH,PJMD,PJMD_biomass_1,Other,2030,cap_only,all,MWh
+1011753.315,SWITCH,PJMD,PJMD_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+6050918.66,SWITCH,PJMD,PJMD_hydroelectric_pumped_storage_1,Hydro,2030,cap_only,all,MWh
+17459082.13,SWITCH,PJMD,PJMD_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+42465725.5,SWITCH,PJMD,PJMD_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+944740.011,SWITCH,PJMD,PJMD_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+39.744,SWITCH,PJMD,PJMD_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_natural_gas_steam_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+29231522.61,SWITCH,PJMD,PJMD_nuclear_1,Nuclear,2030,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+455001.6,SWITCH,PJMD,PJMD_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+90461.28,SWITCH,PJMD,PJMD_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+7138345.351,SWITCH,PJMD,PJMD_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+55203.56876,SWITCH,PJME,PJME_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,PJME,PJME_battery_moderate_1,Battery,2030,cap_only,all,MWh
+2657353.501,SWITCH,PJME,PJME_biomass_1,Other,2030,cap_only,all,MWh
+3257470.651,SWITCH,PJME,PJME_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,PJME,PJME_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+3658850.317,SWITCH,PJME,PJME_hydroelectric_pumped_storage_1,Hydro,2030,cap_only,all,MWh
+119997771.1,SWITCH,PJME,PJME_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+57905668.1,SWITCH,PJME,PJME_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+21282310.14,SWITCH,PJME,PJME_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,PJME,PJME_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,PJME,PJME_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,PJME,PJME_natural_gas_steam_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,PJME,PJME_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,PJME,PJME_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,PJME,PJME_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+100613040.4,SWITCH,PJME,PJME_nuclear_1,Nuclear,2030,cap_only,all,MWh
+0,SWITCH,PJME,PJME_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+2036726.857,SWITCH,PJME,PJME_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+2508462.975,SWITCH,PJME,PJME_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+834069.6,SWITCH,PJME,PJME_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+3374207.95,SWITCH,PJME,PJME_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+39894.84046,SWITCH,PJMW,PJMW_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_battery_moderate_1,Battery,2030,cap_only,all,MWh
+492330.158,SWITCH,PJMW,PJMW_biomass_1,Other,2030,cap_only,all,MWh
+3040676.485,SWITCH,PJMW,PJMW_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+580381.5559,SWITCH,PJMW,PJMW_hydroelectric_pumped_storage_1,Hydro,2030,cap_only,all,MWh
+265368505,SWITCH,PJMW,PJMW_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+22991598.57,SWITCH,PJMW,PJMW_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+1322.283603,SWITCH,PJMW,PJMW_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+7611.36,SWITCH,PJMW,PJMW_natural_gas_steam_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+49870175.85,SWITCH,PJMW,PJMW_nuclear_1,Nuclear,2030,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+7500945.629,SWITCH,PJMW,PJMW_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+698459.5646,SWITCH,PJMW,PJMW_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+2618397.6,SWITCH,PJMW,PJMW_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+6947686.634,SWITCH,PJMW,PJMW_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+178117.0006,SWITCH,RMRG,RMRG_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_battery_moderate_1,Battery,2030,cap_only,all,MWh
+113509.6176,SWITCH,RMRG,RMRG_biomass_1,Other,2030,cap_only,all,MWh
+2375098.475,SWITCH,RMRG,RMRG_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+1510701.101,SWITCH,RMRG,RMRG_hydroelectric_pumped_storage_1,Hydro,2030,cap_only,all,MWh
+70159907.08,SWITCH,RMRG,RMRG_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+4170066.249,SWITCH,RMRG,RMRG_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+1489313.996,SWITCH,RMRG,RMRG_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+877.5451091,SWITCH,RMRG,RMRG_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+16478.16175,SWITCH,RMRG,RMRG_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+17631435.1,SWITCH,RMRG,RMRG_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+63939.60038,SWITCH,RMRG,RMRG_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+1934543.52,SWITCH,RMRG,RMRG_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+4837577.523,SWITCH,RMRG,RMRG_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_battery_moderate_1,Battery,2030,cap_only,all,MWh
+69353.472,SWITCH,SPPC,SPPC_biomass_1,Other,2030,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+42992678.24,SWITCH,SPPC,SPPC_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+16510417.21,SWITCH,SPPC,SPPC_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+1032383.56,SWITCH,SPPC,SPPC_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+7563.000001,SWITCH,SPPC,SPPC_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+10350.912,SWITCH,SPPC,SPPC_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+2462.182228,SWITCH,SPPC,SPPC_natural_gas_steam_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+17202446.58,SWITCH,SPPC,SPPC_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+554081.6756,SWITCH,SPPC,SPPC_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+133812.0857,SWITCH,SPPC,SPPC_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+4044.024428,SWITCH,SPPN,SPPN_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_battery_moderate_1,Battery,2030,cap_only,all,MWh
+104246.9049,SWITCH,SPPN,SPPN_biomass_1,Other,2030,cap_only,all,MWh
+11907371.45,SWITCH,SPPN,SPPN_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+47048931.11,SWITCH,SPPN,SPPN_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+428305.0392,SWITCH,SPPN,SPPN_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+149076.3648,SWITCH,SPPN,SPPN_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+238142.0119,SWITCH,SPPN,SPPN_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+4895.034372,SWITCH,SPPN,SPPN_natural_gas_steam_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+18480447.33,SWITCH,SPPN,SPPN_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+166812.7412,SWITCH,SPPN,SPPN_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+751907.52,SWITCH,SPPN,SPPN_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+198848.2676,SWITCH,SPPN,SPPN_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+181489.6757,SWITCH,SPPS,SPPS_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_battery_moderate_1,Battery,2030,cap_only,all,MWh
+473372.1198,SWITCH,SPPS,SPPS_biomass_1,Other,2030,cap_only,all,MWh
+4901673.924,SWITCH,SPPS,SPPS_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+1178057.954,SWITCH,SPPS,SPPS_hydroelectric_pumped_storage_1,Hydro,2030,cap_only,all,MWh
+70918230.51,SWITCH,SPPS,SPPS_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+9557470.367,SWITCH,SPPS,SPPS_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+50083.9083,SWITCH,SPPS,SPPS_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+49826.53265,SWITCH,SPPS,SPPS_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+2779.776,SWITCH,SPPS,SPPS_natural_gas_steam_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+47331713.07,SWITCH,SPPS,SPPS_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+113949.8091,SWITCH,SPPS,SPPS_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+739458.72,SWITCH,SPPS,SPPS_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+708971.014,SWITCH,SPPS,SPPS_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+153048.4505,SWITCH,SRCA,SRCA_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_battery_moderate_1,Battery,2030,cap_only,all,MWh
+1532856.897,SWITCH,SRCA,SRCA_biomass_1,Other,2030,cap_only,all,MWh
+2581819.919,SWITCH,SRCA,SRCA_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+5808420.805,SWITCH,SRCA,SRCA_hydroelectric_pumped_storage_1,Hydro,2030,cap_only,all,MWh
+97932469.23,SWITCH,SRCA,SRCA_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+15928091.88,SWITCH,SRCA,SRCA_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+6408304.688,SWITCH,SRCA,SRCA_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+19996.86682,SWITCH,SRCA,SRCA_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+8447.202721,SWITCH,SRCA,SRCA_natural_gas_steam_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+95424996.93,SWITCH,SRCA,SRCA_nuclear_1,Nuclear,2030,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+1405295.519,SWITCH,SRCA,SRCA_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+887184.48,SWITCH,SRCA,SRCA_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+11957392.43,SWITCH,SRCA,SRCA_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+118365.3293,SWITCH,SRCE,SRCE_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_battery_moderate_1,Battery,2030,cap_only,all,MWh
+715790.1452,SWITCH,SRCE,SRCE_biomass_1,Other,2030,cap_only,all,MWh
+18234234.4,SWITCH,SRCE,SRCE_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+4208820.577,SWITCH,SRCE,SRCE_hydroelectric_pumped_storage_1,Hydro,2030,cap_only,all,MWh
+137726931.7,SWITCH,SRCE,SRCE_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+7817550.259,SWITCH,SRCE,SRCE_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+1102.464,SWITCH,SRCE,SRCE_natural_gas_steam_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+67337350.78,SWITCH,SRCE,SRCE_nuclear_1,Nuclear,2030,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+234982.9018,SWITCH,SRCE,SRCE_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+1070596.8,SWITCH,SRCE,SRCE_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+3524906.019,SWITCH,SRCE,SRCE_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+139462.1303,SWITCH,SRSE,SRSE_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_battery_moderate_1,Battery,2030,cap_only,all,MWh
+3966919.877,SWITCH,SRSE,SRSE_biomass_1,Other,2030,cap_only,all,MWh
+7006094.451,SWITCH,SRSE,SRSE_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+4823345.705,SWITCH,SRSE,SRSE_hydroelectric_pumped_storage_1,Hydro,2030,cap_only,all,MWh
+158282794.1,SWITCH,SRSE,SRSE_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+4972580.286,SWITCH,SRSE,SRSE_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+7971186.98,SWITCH,SRSE,SRSE_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_natural_gas_steam_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+63532049.82,SWITCH,SRSE,SRSE_nuclear_1,Nuclear,2030,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+393380.8677,SWITCH,SRSE,SRSE_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+100420.32,SWITCH,SRSE,SRSE_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+11351279.54,SWITCH,SRSE,SRSE_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+1539130.264,SWITCH,SRSG,SRSG_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_battery_moderate_1,Battery,2030,cap_only,all,MWh
+740452.5629,SWITCH,SRSG,SRSG_biomass_1,Other,2030,cap_only,all,MWh
+9663372.53,SWITCH,SRSG,SRSG_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+2446359.552,SWITCH,SRSG,SRSG_geothermal_1,Geothermal,2030,cap_only,all,MWh
+374430.4298,SWITCH,SRSG,SRSG_hydroelectric_pumped_storage_1,Hydro,2030,cap_only,all,MWh
+108395076.2,SWITCH,SRSG,SRSG_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+1258687.949,SWITCH,SRSG,SRSG_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+31557115.7,SWITCH,SRSG,SRSG_nuclear_1,Nuclear,2030,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+9713370.641,SWITCH,SRSG,SRSG_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+1373517.6,SWITCH,SRSG,SRSG_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+15215056.99,SWITCH,SRSG,SRSG_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+1262356.128,SWITCH,TRE_WEST,TRE_WEST_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_battery_moderate_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+6716427.075,SWITCH,TRE_WEST,TRE_WEST_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+68705196.37,SWITCH,TRE_WEST,TRE_WEST_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+156038.4,SWITCH,TRE_WEST,TRE_WEST_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+16336318.75,SWITCH,TRE_WEST,TRE_WEST_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+1932110.28,SWITCH,TRE,TRE_batteries_1,Battery,2030,cap_only,all,MWh
+0,SWITCH,TRE,TRE_battery_moderate_1,Battery,2030,cap_only,all,MWh
+371079.3847,SWITCH,TRE,TRE_biomass_1,Other,2030,cap_only,all,MWh
+663782.9928,SWITCH,TRE,TRE_conventional_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+0,SWITCH,TRE,TRE_conventional_steam_coal_1,Coal,2030,cap_only,all,MWh
+213624997.8,SWITCH,TRE,TRE_hydrogen_ccavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+50814602.61,SWITCH,TRE,TRE_hydrogen_ctavgcf_moderate_1,Hydrogen,2030,cap_only,all,MWh
+14824037.66,SWITCH,TRE,TRE_natural_gas_fired_combined_cycle_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,TRE,TRE_natural_gas_fired_combustion_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,TRE,TRE_natural_gas_internal_combustion_engine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,TRE,TRE_natural_gas_steam_turbine_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,TRE,TRE_naturalgas_ccavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+0,SWITCH,TRE,TRE_naturalgas_ccccsavgcf_conservative_1,CCS,2030,cap_only,all,MWh
+0,SWITCH,TRE,TRE_naturalgas_ctavgcf_moderate_1,Natural Gas,2030,cap_only,all,MWh
+40362835.97,SWITCH,TRE,TRE_nuclear_1,Nuclear,2030,cap_only,all,MWh
+0,SWITCH,TRE,TRE_nuclear_nuclear_moderate_1,Nuclear,2030,cap_only,all,MWh
+23569306.08,SWITCH,TRE,TRE_onshore_wind_turbine_1,Wind,2030,cap_only,all,MWh
+717349.7553,SWITCH,TRE,TRE_petroleum_liquids_1,Other,2030,cap_only,all,MWh
+422429.28,SWITCH,TRE,TRE_small_hydroelectric_1,Hydro,2030,cap_only,all,MWh
+22946796.89,SWITCH,TRE,TRE_solar_photovoltaic_1,Solar,2030,cap_only,all,MWh
+0,SWITCH,BASN,BASN_battery_moderate_1,Battery,2040,cap_only,all,MWh
+84746.98865,SWITCH,BASN,BASN_biomass_1,Other,2040,cap_only,all,MWh
+7228960.841,SWITCH,BASN,BASN_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,BASN,BASN_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+4392041.472,SWITCH,BASN,BASN_geothermal_1,Geothermal,2040,cap_only,all,MWh
+122038696.4,SWITCH,BASN,BASN_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+14671019.54,SWITCH,BASN,BASN_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+6042061.128,SWITCH,BASN,BASN_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+36964.22687,SWITCH,BASN,BASN_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+10500.08587,SWITCH,BASN,BASN_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,BASN,BASN_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,BASN,BASN_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,BASN,BASN_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,BASN,BASN_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+3207958.621,SWITCH,BASN,BASN_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+27143.424,SWITCH,BASN,BASN_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+2928787.68,SWITCH,BASN,BASN_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+15686846.62,SWITCH,BASN,BASN_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,CANO,CANO_battery_moderate_1,Battery,2040,cap_only,all,MWh
+1652247.945,SWITCH,CANO,CANO_biomass_1,Other,2040,cap_only,all,MWh
+21664201.01,SWITCH,CANO,CANO_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+3066939.915,SWITCH,CANO,CANO_hydroelectric_pumped_storage_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,CANO,CANO_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+111828744.1,SWITCH,CANO,CANO_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+1931107.98,SWITCH,CANO,CANO_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,CANO,CANO_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,CANO,CANO_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,CANO,CANO_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,CANO,CANO_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,CANO,CANO_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,CANO,CANO_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+1186238.296,SWITCH,CANO,CANO_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+1387797.909,SWITCH,CANO,CANO_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+4888228.8,SWITCH,CANO,CANO_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+12643703.17,SWITCH,CANO,CANO_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+108771.1878,SWITCH,CASO,CASO_batteries_1,Battery,2040,cap_only,all,MWh
+1592859.817,SWITCH,CASO,CASO_battery_moderate_1,Battery,2040,cap_only,all,MWh
+1921360.896,SWITCH,CASO,CASO_biomass_1,Other,2040,cap_only,all,MWh
+3490518.794,SWITCH,CASO,CASO_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+1373721.158,SWITCH,CASO,CASO_hydroelectric_pumped_storage_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,CASO,CASO_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+190141683.7,SWITCH,CASO,CASO_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+2095280.142,SWITCH,CASO,CASO_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+290821.3742,SWITCH,CASO,CASO_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+6072.192,SWITCH,CASO,CASO_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,CASO,CASO_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,CASO,CASO_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,CASO,CASO_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,CASO,CASO_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+13364567.18,SWITCH,CASO,CASO_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+8424,SWITCH,CASO,CASO_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+1902176.64,SWITCH,CASO,CASO_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+29366384.16,SWITCH,CASO,CASO_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_battery_moderate_1,Battery,2040,cap_only,all,MWh
+1236612.504,SWITCH,FRCC,FRCC_biomass_1,Other,2040,cap_only,all,MWh
+157581.8369,SWITCH,FRCC,FRCC_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+224446306,SWITCH,FRCC,FRCC_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+43933871.14,SWITCH,FRCC,FRCC_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+15928650.47,SWITCH,FRCC,FRCC_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+29460140.24,SWITCH,FRCC,FRCC_nuclear_1,Nuclear,2040,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+360165.8927,SWITCH,FRCC,FRCC_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+13329457.9,SWITCH,FRCC,FRCC_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+2680742.4,SWITCH,ISNE,ISNE_battery_moderate_1,Battery,2040,cap_only,all,MWh
+277875.6922,SWITCH,ISNE,ISNE_biomass_1,Other,2040,cap_only,all,MWh
+2684661.378,SWITCH,ISNE,ISNE_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+2406461.578,SWITCH,ISNE,ISNE_hydroelectric_pumped_storage_1,Hydro,2040,cap_only,all,MWh
+99113344.31,SWITCH,ISNE,ISNE_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+67198686.96,SWITCH,ISNE,ISNE_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+3601705.369,SWITCH,ISNE,ISNE_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+42945.6,SWITCH,ISNE,ISNE_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+1377.6,SWITCH,ISNE,ISNE_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+412.8,SWITCH,ISNE,ISNE_natural_gas_steam_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,ISNE,ISNE_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,ISNE,ISNE_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,ISNE,ISNE_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+26394299.04,SWITCH,ISNE,ISNE_nuclear_1,Nuclear,2040,cap_only,all,MWh
+0,SWITCH,ISNE,ISNE_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+1751005.569,SWITCH,ISNE,ISNE_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+564394.0935,SWITCH,ISNE,ISNE_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+4274917.92,SWITCH,ISNE,ISNE_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+3861038.345,SWITCH,ISNE,ISNE_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,MISC,MISC_battery_moderate_1,Battery,2040,cap_only,all,MWh
+825689.9743,SWITCH,MISC,MISC_biomass_1,Other,2040,cap_only,all,MWh
+1178678.928,SWITCH,MISC,MISC_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,MISC,MISC_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+1092163.04,SWITCH,MISC,MISC_hydroelectric_pumped_storage_1,Hydro,2040,cap_only,all,MWh
+194044020.1,SWITCH,MISC,MISC_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+32310461.37,SWITCH,MISC,MISC_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+3700532.492,SWITCH,MISC,MISC_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+715323.3743,SWITCH,MISC,MISC_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+13029.12,SWITCH,MISC,MISC_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+44369.58337,SWITCH,MISC,MISC_natural_gas_steam_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,MISC,MISC_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,MISC,MISC_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,MISC,MISC_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+18707228.47,SWITCH,MISC,MISC_nuclear_1,Nuclear,2040,cap_only,all,MWh
+0,SWITCH,MISC,MISC_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+8033413.59,SWITCH,MISC,MISC_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+318511.8395,SWITCH,MISC,MISC_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+6421449.893,SWITCH,MISC,MISC_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,MISE,MISE_battery_moderate_1,Battery,2040,cap_only,all,MWh
+465156.5177,SWITCH,MISE,MISE_biomass_1,Other,2040,cap_only,all,MWh
+0,SWITCH,MISE,MISE_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+4959670.107,SWITCH,MISE,MISE_hydroelectric_pumped_storage_1,Hydro,2040,cap_only,all,MWh
+112011709.7,SWITCH,MISE,MISE_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+14596442.08,SWITCH,MISE,MISE_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+3461456.695,SWITCH,MISE,MISE_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+162675.1449,SWITCH,MISE,MISE_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+6595.941057,SWITCH,MISE,MISE_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+254.4,SWITCH,MISE,MISE_natural_gas_steam_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,MISE,MISE_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,MISE,MISE_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,MISE,MISE_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,MISE,MISE_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+6733717.753,SWITCH,MISE,MISE_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+79161.51864,SWITCH,MISE,MISE_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+126977.76,SWITCH,MISE,MISE_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+1840892.656,SWITCH,MISE,MISE_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,MISS,MISS_battery_moderate_1,Battery,2040,cap_only,all,MWh
+894102.6893,SWITCH,MISS,MISS_biomass_1,Other,2040,cap_only,all,MWh
+1791743.908,SWITCH,MISS,MISS_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,MISS,MISS_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+160097500.9,SWITCH,MISS,MISS_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+19738313.65,SWITCH,MISS,MISS_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+10907136.07,SWITCH,MISS,MISS_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,MISS,MISS_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,MISS,MISS_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,MISS,MISS_natural_gas_steam_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,MISS,MISS_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,MISS,MISS_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,MISS,MISS_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+42775146.09,SWITCH,MISS,MISS_nuclear_1,Nuclear,2040,cap_only,all,MWh
+0,SWITCH,MISS,MISS_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+95017.064,SWITCH,MISS,MISS_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+303750.72,SWITCH,MISS,MISS_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+3557005.954,SWITCH,MISS,MISS_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,MISW,MISW_battery_moderate_1,Battery,2040,cap_only,all,MWh
+226565.0753,SWITCH,MISW,MISW_biomass_1,Other,2040,cap_only,all,MWh
+318917.3033,SWITCH,MISW,MISW_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,MISW,MISW_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+198565455.7,SWITCH,MISW,MISW_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+61275395.56,SWITCH,MISW,MISW_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+2482033.311,SWITCH,MISW,MISW_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+254709.4013,SWITCH,MISW,MISW_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+75615.55934,SWITCH,MISW,MISW_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+1861.632,SWITCH,MISW,MISW_natural_gas_steam_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,MISW,MISW_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,MISW,MISW_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,MISW,MISW_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+23202323.99,SWITCH,MISW,MISW_nuclear_1,Nuclear,2040,cap_only,all,MWh
+0,SWITCH,MISW,MISW_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+32580901.57,SWITCH,MISW,MISW_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+479089.3562,SWITCH,MISW,MISW_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+2615077.92,SWITCH,MISW,MISW_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+4878346.427,SWITCH,MISW,MISW_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+308809.3411,SWITCH,NWPP,NWPP_battery_moderate_1,Battery,2040,cap_only,all,MWh
+724743.2752,SWITCH,NWPP,NWPP_biomass_1,Other,2040,cap_only,all,MWh
+138428540.5,SWITCH,NWPP,NWPP_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+258306.048,SWITCH,NWPP,NWPP_geothermal_1,Geothermal,2040,cap_only,all,MWh
+101558.4668,SWITCH,NWPP,NWPP_hydroelectric_pumped_storage_1,Hydro,2040,cap_only,all,MWh
+142466707.8,SWITCH,NWPP,NWPP_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+871744.9539,SWITCH,NWPP,NWPP_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+12088.1781,SWITCH,NWPP,NWPP_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+8051.504587,SWITCH,NWPP,NWPP_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+7162607.589,SWITCH,NWPP,NWPP_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+88128,SWITCH,NWPP,NWPP_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+5654244.96,SWITCH,NWPP,NWPP_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+2648463.174,SWITCH,NWPP,NWPP_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_battery_moderate_1,Battery,2040,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+98143491.46,SWITCH,NYCW,NYCW_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+5940127.383,SWITCH,NYCW,NYCW_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+282320.932,SWITCH,NYCW,NYCW_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+12720.672,SWITCH,NYCW,NYCW_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+1035491.494,SWITCH,NYCW,NYCW_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+257356.0563,SWITCH,NYCW,NYCW_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_battery_moderate_1,Battery,2040,cap_only,all,MWh
+815044.9966,SWITCH,NYUP,NYUP_biomass_1,Other,2040,cap_only,all,MWh
+21145852.66,SWITCH,NYUP,NYUP_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+1827583.769,SWITCH,NYUP,NYUP_hydroelectric_pumped_storage_1,Hydro,2040,cap_only,all,MWh
+28260503.57,SWITCH,NYUP,NYUP_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+530489.5293,SWITCH,NYUP,NYUP_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+4164833.084,SWITCH,NYUP,NYUP_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+547.2,SWITCH,NYUP,NYUP_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+213.12,SWITCH,NYUP,NYUP_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+604.3896533,SWITCH,NYUP,NYUP_natural_gas_steam_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+26608726.61,SWITCH,NYUP,NYUP_nuclear_1,Nuclear,2040,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+3927137.216,SWITCH,NYUP,NYUP_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+382199.3462,SWITCH,NYUP,NYUP_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+4143790.56,SWITCH,NYUP,NYUP_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+2452872.275,SWITCH,NYUP,NYUP_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,PJMC,PJMC_battery_moderate_1,Battery,2040,cap_only,all,MWh
+138206.6865,SWITCH,PJMC,PJMC_biomass_1,Other,2040,cap_only,all,MWh
+38636.58644,SWITCH,PJMC,PJMC_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+45628657.67,SWITCH,PJMC,PJMC_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+43906999.82,SWITCH,PJMC,PJMC_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+4792111.106,SWITCH,PJMC,PJMC_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+955180.1285,SWITCH,PJMC,PJMC_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+39898.26561,SWITCH,PJMC,PJMC_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,PJMC,PJMC_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,PJMC,PJMC_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,PJMC,PJMC_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+51368015.46,SWITCH,PJMC,PJMC_nuclear_1,Nuclear,2040,cap_only,all,MWh
+0,SWITCH,PJMC,PJMC_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+4138206.073,SWITCH,PJMC,PJMC_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+121745.169,SWITCH,PJMC,PJMC_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+182582.4,SWITCH,PJMC,PJMC_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+470887.4852,SWITCH,PJMC,PJMC_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_battery_moderate_1,Battery,2040,cap_only,all,MWh
+1025953.152,SWITCH,PJMD,PJMD_biomass_1,Other,2040,cap_only,all,MWh
+1012365.753,SWITCH,PJMD,PJMD_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+7265355.346,SWITCH,PJMD,PJMD_hydroelectric_pumped_storage_1,Hydro,2040,cap_only,all,MWh
+39711368.21,SWITCH,PJMD,PJMD_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+50194763.64,SWITCH,PJMD,PJMD_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+1534462.347,SWITCH,PJMD,PJMD_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+7903.347289,SWITCH,PJMD,PJMD_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+192.096,SWITCH,PJMD,PJMD_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+200.448,SWITCH,PJMD,PJMD_natural_gas_steam_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+29231522.61,SWITCH,PJMD,PJMD_nuclear_1,Nuclear,2040,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+130838.4,SWITCH,PJMD,PJMD_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+90461.28,SWITCH,PJMD,PJMD_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+7108985.335,SWITCH,PJMD,PJMD_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,PJME,PJME_battery_moderate_1,Battery,2040,cap_only,all,MWh
+1450053.308,SWITCH,PJME,PJME_biomass_1,Other,2040,cap_only,all,MWh
+2230259.206,SWITCH,PJME,PJME_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,PJME,PJME_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+4109191.44,SWITCH,PJME,PJME_hydroelectric_pumped_storage_1,Hydro,2040,cap_only,all,MWh
+154862875.1,SWITCH,PJME,PJME_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+101509601,SWITCH,PJME,PJME_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+24239846.71,SWITCH,PJME,PJME_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+30251.78804,SWITCH,PJME,PJME_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+4518.72,SWITCH,PJME,PJME_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+1531.008,SWITCH,PJME,PJME_natural_gas_steam_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,PJME,PJME_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,PJME,PJME_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,PJME,PJME_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+100613040.4,SWITCH,PJME,PJME_nuclear_1,Nuclear,2040,cap_only,all,MWh
+0,SWITCH,PJME,PJME_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+902711.4226,SWITCH,PJME,PJME_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+1237785.719,SWITCH,PJME,PJME_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+834069.6,SWITCH,PJME,PJME_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+3232350.841,SWITCH,PJME,PJME_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_battery_moderate_1,Battery,2040,cap_only,all,MWh
+507095.1643,SWITCH,PJMW,PJMW_biomass_1,Other,2040,cap_only,all,MWh
+2069815.898,SWITCH,PJMW,PJMW_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+660844.1564,SWITCH,PJMW,PJMW_hydroelectric_pumped_storage_1,Hydro,2040,cap_only,all,MWh
+325654002.8,SWITCH,PJMW,PJMW_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+16979034.85,SWITCH,PJMW,PJMW_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+22887798.65,SWITCH,PJMW,PJMW_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+334233.8193,SWITCH,PJMW,PJMW_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+7388.64,SWITCH,PJMW,PJMW_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+6373.344,SWITCH,PJMW,PJMW_natural_gas_steam_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+49870175.85,SWITCH,PJMW,PJMW_nuclear_1,Nuclear,2040,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+4644656.988,SWITCH,PJMW,PJMW_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+295917.796,SWITCH,PJMW,PJMW_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+2029984.32,SWITCH,PJMW,PJMW_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+6846680.149,SWITCH,PJMW,PJMW_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_battery_moderate_1,Battery,2040,cap_only,all,MWh
+42529.44,SWITCH,RMRG,RMRG_biomass_1,Other,2040,cap_only,all,MWh
+2158837.357,SWITCH,RMRG,RMRG_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+1363862.549,SWITCH,RMRG,RMRG_hydroelectric_pumped_storage_1,Hydro,2040,cap_only,all,MWh
+107347453.8,SWITCH,RMRG,RMRG_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+19508639.03,SWITCH,RMRG,RMRG_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+1670108.717,SWITCH,RMRG,RMRG_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+92114.45668,SWITCH,RMRG,RMRG_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+55079.64038,SWITCH,RMRG,RMRG_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+17802024.13,SWITCH,RMRG,RMRG_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+17694.336,SWITCH,RMRG,RMRG_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+1893877.44,SWITCH,RMRG,RMRG_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+4807349.971,SWITCH,RMRG,RMRG_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_battery_moderate_1,Battery,2040,cap_only,all,MWh
+71386.61932,SWITCH,SPPC,SPPC_biomass_1,Other,2040,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+58671445.62,SWITCH,SPPC,SPPC_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+24070495.95,SWITCH,SPPC,SPPC_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+1344244.87,SWITCH,SPPC,SPPC_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+136809.7559,SWITCH,SPPC,SPPC_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+47268.90423,SWITCH,SPPC,SPPC_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+5090.4,SWITCH,SPPC,SPPC_natural_gas_steam_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+15920751.66,SWITCH,SPPC,SPPC_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+203109.3845,SWITCH,SPPC,SPPC_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+133031.0873,SWITCH,SPPC,SPPC_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_battery_moderate_1,Battery,2040,cap_only,all,MWh
+91269.1912,SWITCH,SPPN,SPPN_biomass_1,Other,2040,cap_only,all,MWh
+11253372.61,SWITCH,SPPN,SPPN_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+50682103.85,SWITCH,SPPN,SPPN_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+924560.6047,SWITCH,SPPN,SPPN_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+484737.2528,SWITCH,SPPN,SPPN_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+606138.1451,SWITCH,SPPN,SPPN_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+192687.7621,SWITCH,SPPN,SPPN_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+4960.8,SWITCH,SPPN,SPPN_natural_gas_steam_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+15398439.1,SWITCH,SPPN,SPPN_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+54497.13613,SWITCH,SPPN,SPPN_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+527829.12,SWITCH,SPPN,SPPN_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+197674.1406,SWITCH,SPPN,SPPN_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_battery_moderate_1,Battery,2040,cap_only,all,MWh
+447284.9091,SWITCH,SPPS,SPPS_biomass_1,Other,2040,cap_only,all,MWh
+4515491.719,SWITCH,SPPS,SPPS_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+1190471.556,SWITCH,SPPS,SPPS_hydroelectric_pumped_storage_1,Hydro,2040,cap_only,all,MWh
+112224382.8,SWITCH,SPPS,SPPS_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+10532114.93,SWITCH,SPPS,SPPS_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+10627995.97,SWITCH,SPPS,SPPS_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+265366.2024,SWITCH,SPPS,SPPS_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+166650.955,SWITCH,SPPS,SPPS_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+40332007.45,SWITCH,SPPS,SPPS_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+57581.7509,SWITCH,SPPS,SPPS_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+739458.72,SWITCH,SPPS,SPPS_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+728846.3282,SWITCH,SPPS,SPPS_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_battery_moderate_1,Battery,2040,cap_only,all,MWh
+703176.1631,SWITCH,SRCA,SRCA_biomass_1,Other,2040,cap_only,all,MWh
+2439284.855,SWITCH,SRCA,SRCA_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+7374599.87,SWITCH,SRCA,SRCA_hydroelectric_pumped_storage_1,Hydro,2040,cap_only,all,MWh
+148155817,SWITCH,SRCA,SRCA_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+25721037.42,SWITCH,SRCA,SRCA_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+7186877.381,SWITCH,SRCA,SRCA_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+727212.313,SWITCH,SRCA,SRCA_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+122386.3231,SWITCH,SRCA,SRCA_natural_gas_steam_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+95424996.93,SWITCH,SRCA,SRCA_nuclear_1,Nuclear,2040,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+336435.5077,SWITCH,SRCA,SRCA_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+847348.32,SWITCH,SRCA,SRCA_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+11794517.33,SWITCH,SRCA,SRCA_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_battery_moderate_1,Battery,2040,cap_only,all,MWh
+194779.296,SWITCH,SRCE,SRCE_biomass_1,Other,2040,cap_only,all,MWh
+14726200.7,SWITCH,SRCE,SRCE_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+4682257.704,SWITCH,SRCE,SRCE_hydroelectric_pumped_storage_1,Hydro,2040,cap_only,all,MWh
+193547638,SWITCH,SRCE,SRCE_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+6942854.513,SWITCH,SRCE,SRCE_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+6107968.259,SWITCH,SRCE,SRCE_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+224479.0591,SWITCH,SRCE,SRCE_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+67337350.78,SWITCH,SRCE,SRCE_nuclear_1,Nuclear,2040,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+85475.52,SWITCH,SRCE,SRCE_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+959387.52,SWITCH,SRCE,SRCE_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+3585367.131,SWITCH,SRCE,SRCE_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_battery_moderate_1,Battery,2040,cap_only,all,MWh
+2556940.182,SWITCH,SRSE,SRSE_biomass_1,Other,2040,cap_only,all,MWh
+6526374.135,SWITCH,SRSE,SRSE_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+5150440.925,SWITCH,SRSE,SRSE_hydroelectric_pumped_storage_1,Hydro,2040,cap_only,all,MWh
+217322946.5,SWITCH,SRSE,SRSE_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+23825866.84,SWITCH,SRSE,SRSE_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+11942890.08,SWITCH,SRSE,SRSE_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+58576.46072,SWITCH,SRSE,SRSE_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+621.48016,SWITCH,SRSE,SRSE_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+63532049.82,SWITCH,SRSE,SRSE_nuclear_1,Nuclear,2040,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+94810.5994,SWITCH,SRSE,SRSE_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+100420.32,SWITCH,SRSE,SRSE_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+11426012.09,SWITCH,SRSE,SRSE_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_battery_moderate_1,Battery,2040,cap_only,all,MWh
+169737.3704,SWITCH,SRSG,SRSG_biomass_1,Other,2040,cap_only,all,MWh
+7948959.682,SWITCH,SRSG,SRSG_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+1049997.312,SWITCH,SRSG,SRSG_geothermal_1,Geothermal,2040,cap_only,all,MWh
+549831.7899,SWITCH,SRSG,SRSG_hydroelectric_pumped_storage_1,Hydro,2040,cap_only,all,MWh
+109458455.8,SWITCH,SRSG,SRSG_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+23800776.82,SWITCH,SRSG,SRSG_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+7554863.07,SWITCH,SRSG,SRSG_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+21322.53434,SWITCH,SRSG,SRSG_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+31557115.7,SWITCH,SRSG,SRSG_nuclear_1,Nuclear,2040,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+8494879.272,SWITCH,SRSG,SRSG_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+1141969.92,SWITCH,SRSG,SRSG_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+15281770.96,SWITCH,SRSG,SRSG_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_battery_moderate_1,Battery,2040,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+7068417.519,SWITCH,TRE_WEST,TRE_WEST_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+323.232,SWITCH,TRE_WEST,TRE_WEST_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+47672980.75,SWITCH,TRE_WEST,TRE_WEST_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+178361.4324,SWITCH,TRE_WEST,TRE_WEST_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+17230931.74,SWITCH,TRE_WEST,TRE_WEST_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,TRE,TRE_battery_moderate_1,Battery,2040,cap_only,all,MWh
+332524.5733,SWITCH,TRE,TRE_biomass_1,Other,2040,cap_only,all,MWh
+617147.4129,SWITCH,TRE,TRE_conventional_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+0,SWITCH,TRE,TRE_conventional_steam_coal_1,Coal,2040,cap_only,all,MWh
+340685953,SWITCH,TRE,TRE_hydrogen_ccavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+65387046.96,SWITCH,TRE,TRE_hydrogen_ctavgcf_moderate_1,Hydrogen,2040,cap_only,all,MWh
+25216381.64,SWITCH,TRE,TRE_natural_gas_fired_combined_cycle_1,Natural Gas,2040,cap_only,all,MWh
+33899.79688,SWITCH,TRE,TRE_natural_gas_fired_combustion_turbine_1,Natural Gas,2040,cap_only,all,MWh
+25055.5148,SWITCH,TRE,TRE_natural_gas_internal_combustion_engine_1,Natural Gas,2040,cap_only,all,MWh
+6731.424,SWITCH,TRE,TRE_natural_gas_steam_turbine_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,TRE,TRE_naturalgas_ccavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+0,SWITCH,TRE,TRE_naturalgas_ccccsavgcf_conservative_1,CCS,2040,cap_only,all,MWh
+0,SWITCH,TRE,TRE_naturalgas_ctavgcf_moderate_1,Natural Gas,2040,cap_only,all,MWh
+40362835.97,SWITCH,TRE,TRE_nuclear_1,Nuclear,2040,cap_only,all,MWh
+0,SWITCH,TRE,TRE_nuclear_nuclear_moderate_1,Nuclear,2040,cap_only,all,MWh
+19528428.57,SWITCH,TRE,TRE_onshore_wind_turbine_1,Wind,2040,cap_only,all,MWh
+653230.8157,SWITCH,TRE,TRE_petroleum_liquids_1,Other,2040,cap_only,all,MWh
+77182.56,SWITCH,TRE,TRE_small_hydroelectric_1,Hydro,2040,cap_only,all,MWh
+22939153.79,SWITCH,TRE,TRE_solar_photovoltaic_1,Solar,2040,cap_only,all,MWh
+0,SWITCH,BASN,BASN_battery_moderate_1,Battery,2050,cap_only,all,MWh
+14067.81377,SWITCH,BASN,BASN_biomass_1,Other,2050,cap_only,all,MWh
+6266676.214,SWITCH,BASN,BASN_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,BASN,BASN_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+915812.352,SWITCH,BASN,BASN_geothermal_1,Geothermal,2050,cap_only,all,MWh
+167843659.7,SWITCH,BASN,BASN_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+33099787.28,SWITCH,BASN,BASN_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+1486391.073,SWITCH,BASN,BASN_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+1025.074449,SWITCH,BASN,BASN_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+390.72,SWITCH,BASN,BASN_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,BASN,BASN_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,BASN,BASN_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,BASN,BASN_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,BASN,BASN_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+1147275.435,SWITCH,BASN,BASN_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+2536235.52,SWITCH,BASN,BASN_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+8959300.856,SWITCH,BASN,BASN_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,CANO,CANO_battery_moderate_1,Battery,2050,cap_only,all,MWh
+242855.868,SWITCH,CANO,CANO_biomass_1,Other,2050,cap_only,all,MWh
+20016818,SWITCH,CANO,CANO_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+4323375.336,SWITCH,CANO,CANO_hydroelectric_pumped_storage_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,CANO,CANO_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+165198597.5,SWITCH,CANO,CANO_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+2011898.443,SWITCH,CANO,CANO_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+20406.5334,SWITCH,CANO,CANO_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+10914.912,SWITCH,CANO,CANO_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,CANO,CANO_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,CANO,CANO_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,CANO,CANO_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,CANO,CANO_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+105027.9752,SWITCH,CANO,CANO_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+362825.3575,SWITCH,CANO,CANO_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+4485717.6,SWITCH,CANO,CANO_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+5501440.169,SWITCH,CANO,CANO_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+12882963.38,SWITCH,CASO,CASO_battery_moderate_1,Battery,2050,cap_only,all,MWh
+1256306.688,SWITCH,CASO,CASO_biomass_1,Other,2050,cap_only,all,MWh
+3468137.851,SWITCH,CASO,CASO_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+265839.1533,SWITCH,CASO,CASO_hydroelectric_pumped_storage_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,CASO,CASO_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+283076818,SWITCH,CASO,CASO_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+699191.2878,SWITCH,CASO,CASO_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+110097.7356,SWITCH,CASO,CASO_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+2377.244869,SWITCH,CASO,CASO_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,CASO,CASO_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,CASO,CASO_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,CASO,CASO_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,CASO,CASO_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+1605183.121,SWITCH,CASO,CASO_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+4799.52,SWITCH,CASO,CASO_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+1868979.84,SWITCH,CASO,CASO_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+14852728.65,SWITCH,CASO,CASO_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_battery_moderate_1,Battery,2050,cap_only,all,MWh
+251846.8966,SWITCH,FRCC,FRCC_biomass_1,Other,2050,cap_only,all,MWh
+152542.668,SWITCH,FRCC,FRCC_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+263659474.2,SWITCH,FRCC,FRCC_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+85718760.31,SWITCH,FRCC,FRCC_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+2926629.996,SWITCH,FRCC,FRCC_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+29460140.24,SWITCH,FRCC,FRCC_nuclear_1,Nuclear,2050,cap_only,all,MWh
+0,SWITCH,FRCC,FRCC_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+1527.552,SWITCH,FRCC,FRCC_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+9982233.097,SWITCH,FRCC,FRCC_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+10856442.81,SWITCH,ISNE,ISNE_battery_moderate_1,Battery,2050,cap_only,all,MWh
+382544.9905,SWITCH,ISNE,ISNE_biomass_1,Other,2050,cap_only,all,MWh
+2388239.609,SWITCH,ISNE,ISNE_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+578427.2251,SWITCH,ISNE,ISNE_hydroelectric_pumped_storage_1,Hydro,2050,cap_only,all,MWh
+110289604.8,SWITCH,ISNE,ISNE_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+86657369.63,SWITCH,ISNE,ISNE_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+1270252.788,SWITCH,ISNE,ISNE_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,ISNE,ISNE_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,ISNE,ISNE_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,ISNE,ISNE_natural_gas_steam_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,ISNE,ISNE_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,ISNE,ISNE_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,ISNE,ISNE_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+26394299.04,SWITCH,ISNE,ISNE_nuclear_1,Nuclear,2050,cap_only,all,MWh
+0,SWITCH,ISNE,ISNE_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+59809.49333,SWITCH,ISNE,ISNE_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+955875.4186,SWITCH,ISNE,ISNE_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+3732980.16,SWITCH,ISNE,ISNE_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+1836764.673,SWITCH,ISNE,ISNE_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+733358.0271,SWITCH,MISC,MISC_battery_moderate_1,Battery,2050,cap_only,all,MWh
+576121.1822,SWITCH,MISC,MISC_biomass_1,Other,2050,cap_only,all,MWh
+1185478.183,SWITCH,MISC,MISC_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,MISC,MISC_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+721964.8953,SWITCH,MISC,MISC_hydroelectric_pumped_storage_1,Hydro,2050,cap_only,all,MWh
+228792011,SWITCH,MISC,MISC_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+44534107.5,SWITCH,MISC,MISC_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+679932.3822,SWITCH,MISC,MISC_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+137393.2177,SWITCH,MISC,MISC_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+1562.112,SWITCH,MISC,MISC_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+1976.832,SWITCH,MISC,MISC_natural_gas_steam_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,MISC,MISC_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,MISC,MISC_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,MISC,MISC_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+18707228.47,SWITCH,MISC,MISC_nuclear_1,Nuclear,2050,cap_only,all,MWh
+0,SWITCH,MISC,MISC_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+3304876,SWITCH,MISC,MISC_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+219680.4007,SWITCH,MISC,MISC_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+6049717.473,SWITCH,MISC,MISC_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,MISE,MISE_battery_moderate_1,Battery,2050,cap_only,all,MWh
+28868.66888,SWITCH,MISE,MISE_biomass_1,Other,2050,cap_only,all,MWh
+0,SWITCH,MISE,MISE_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+3420842.029,SWITCH,MISE,MISE_hydroelectric_pumped_storage_1,Hydro,2050,cap_only,all,MWh
+127910184.1,SWITCH,MISE,MISE_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+23137674.58,SWITCH,MISE,MISE_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+1278237.15,SWITCH,MISE,MISE_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+64351.73935,SWITCH,MISE,MISE_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+3021.696,SWITCH,MISE,MISE_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+185.088,SWITCH,MISE,MISE_natural_gas_steam_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,MISE,MISE_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,MISE,MISE_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,MISE,MISE_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,MISE,MISE_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+2344352.452,SWITCH,MISE,MISE_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+107059.68,SWITCH,MISE,MISE_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+1675923.98,SWITCH,MISE,MISE_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,MISS,MISS_battery_moderate_1,Battery,2050,cap_only,all,MWh
+651163.2969,SWITCH,MISS,MISS_biomass_1,Other,2050,cap_only,all,MWh
+1737760.857,SWITCH,MISS,MISS_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+191018150.7,SWITCH,MISS,MISS_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+40717909.01,SWITCH,MISS,MISS_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+2235494.424,SWITCH,MISS,MISS_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,MISS,MISS_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,MISS,MISS_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,MISS,MISS_natural_gas_steam_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,MISS,MISS_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,MISS,MISS_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,MISS,MISS_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+42775146.09,SWITCH,MISS,MISS_nuclear_1,Nuclear,2050,cap_only,all,MWh
+0,SWITCH,MISS,MISS_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+303750.72,SWITCH,MISS,MISS_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+3176522.869,SWITCH,MISS,MISS_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+4230358.808,SWITCH,MISW,MISW_battery_moderate_1,Battery,2050,cap_only,all,MWh
+80940.45273,SWITCH,MISW,MISW_biomass_1,Other,2050,cap_only,all,MWh
+263937.334,SWITCH,MISW,MISW_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,MISW,MISW_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+278404507.1,SWITCH,MISW,MISW_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+64629116.08,SWITCH,MISW,MISW_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+796037.8553,SWITCH,MISW,MISW_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+64279.03055,SWITCH,MISW,MISW_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+18807.94696,SWITCH,MISW,MISW_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+1538.317802,SWITCH,MISW,MISW_natural_gas_steam_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,MISW,MISW_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,MISW,MISW_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,MISW,MISW_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+18470727.48,SWITCH,MISW,MISW_nuclear_1,Nuclear,2050,cap_only,all,MWh
+0,SWITCH,MISW,MISW_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+8237801.621,SWITCH,MISW,MISW_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+56927.19527,SWITCH,MISW,MISW_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+1627473.12,SWITCH,MISW,MISW_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+3250456.903,SWITCH,MISW,MISW_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+6934285.383,SWITCH,NWPP,NWPP_battery_moderate_1,Battery,2050,cap_only,all,MWh
+926183.6576,SWITCH,NWPP,NWPP_biomass_1,Other,2050,cap_only,all,MWh
+126269178.8,SWITCH,NWPP,NWPP_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+28055.23384,SWITCH,NWPP,NWPP_hydroelectric_pumped_storage_1,Hydro,2050,cap_only,all,MWh
+231459710.7,SWITCH,NWPP,NWPP_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+276424.3454,SWITCH,NWPP,NWPP_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+2044.871433,SWITCH,NWPP,NWPP_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+2342.4,SWITCH,NWPP,NWPP_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,NWPP,NWPP_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+1583914.198,SWITCH,NWPP,NWPP_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+5566273.44,SWITCH,NWPP,NWPP_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+1855056.355,SWITCH,NWPP,NWPP_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_battery_moderate_1,Battery,2050,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+118302125.1,SWITCH,NYCW,NYCW_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+1075488.192,SWITCH,NYCW,NYCW_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,NYCW,NYCW_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+38357.37242,SWITCH,NYCW,NYCW_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+43760.29023,SWITCH,NYCW,NYCW_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_battery_moderate_1,Battery,2050,cap_only,all,MWh
+291059.136,SWITCH,NYUP,NYUP_biomass_1,Other,2050,cap_only,all,MWh
+20432888.26,SWITCH,NYUP,NYUP_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+1924134.721,SWITCH,NYUP,NYUP_hydroelectric_pumped_storage_1,Hydro,2050,cap_only,all,MWh
+38773654.51,SWITCH,NYUP,NYUP_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+17657991.49,SWITCH,NYUP,NYUP_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+730461.7907,SWITCH,NYUP,NYUP_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_natural_gas_steam_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+16993384.61,SWITCH,NYUP,NYUP_nuclear_1,Nuclear,2050,cap_only,all,MWh
+0,SWITCH,NYUP,NYUP_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+2604908.18,SWITCH,NYUP,NYUP_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+241448.8848,SWITCH,NYUP,NYUP_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+4015152.96,SWITCH,NYUP,NYUP_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+1806143.939,SWITCH,NYUP,NYUP_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,PJMC,PJMC_battery_moderate_1,Battery,2050,cap_only,all,MWh
+91155.456,SWITCH,PJMC,PJMC_biomass_1,Other,2050,cap_only,all,MWh
+40671.36893,SWITCH,PJMC,PJMC_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+59234231.27,SWITCH,PJMC,PJMC_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+52803993.59,SWITCH,PJMC,PJMC_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+1520042.997,SWITCH,PJMC,PJMC_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+263458.2781,SWITCH,PJMC,PJMC_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+10543.68,SWITCH,PJMC,PJMC_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,PJMC,PJMC_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,PJMC,PJMC_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,PJMC,PJMC_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+51368015.46,SWITCH,PJMC,PJMC_nuclear_1,Nuclear,2050,cap_only,all,MWh
+0,SWITCH,PJMC,PJMC_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+926500.0342,SWITCH,PJMC,PJMC_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+23659.38057,SWITCH,PJMC,PJMC_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+182582.4,SWITCH,PJMC,PJMC_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+426241.6235,SWITCH,PJMC,PJMC_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_battery_moderate_1,Battery,2050,cap_only,all,MWh
+139470.2289,SWITCH,PJMD,PJMD_biomass_1,Other,2050,cap_only,all,MWh
+758876.8339,SWITCH,PJMD,PJMD_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+3660618.498,SWITCH,PJMD,PJMD_hydroelectric_pumped_storage_1,Hydro,2050,cap_only,all,MWh
+47458206.09,SWITCH,PJMD,PJMD_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+66244546.81,SWITCH,PJMD,PJMD_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+1726914.197,SWITCH,PJMD,PJMD_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+20827.01607,SWITCH,PJMD,PJMD_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+72.864,SWITCH,PJMD,PJMD_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+76.032,SWITCH,PJMD,PJMD_natural_gas_steam_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+29231522.61,SWITCH,PJMD,PJMD_nuclear_1,Nuclear,2050,cap_only,all,MWh
+0,SWITCH,PJMD,PJMD_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+90461.28,SWITCH,PJMD,PJMD_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+4482197.315,SWITCH,PJMD,PJMD_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,PJME,PJME_battery_moderate_1,Battery,2050,cap_only,all,MWh
+555950.3899,SWITCH,PJME,PJME_biomass_1,Other,2050,cap_only,all,MWh
+2406949.97,SWITCH,PJME,PJME_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,PJME,PJME_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+2353459.751,SWITCH,PJME,PJME_hydroelectric_pumped_storage_1,Hydro,2050,cap_only,all,MWh
+184178050.9,SWITCH,PJME,PJME_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+147353294.3,SWITCH,PJME,PJME_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+5155827.079,SWITCH,PJME,PJME_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,PJME,PJME_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,PJME,PJME_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,PJME,PJME_natural_gas_steam_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,PJME,PJME_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,PJME,PJME_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,PJME,PJME_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+100613040.4,SWITCH,PJME,PJME_nuclear_1,Nuclear,2050,cap_only,all,MWh
+0,SWITCH,PJME,PJME_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+601702.08,SWITCH,PJME,PJME_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+834069.6,SWITCH,PJME,PJME_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+1256776.633,SWITCH,PJME,PJME_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_battery_moderate_1,Battery,2050,cap_only,all,MWh
+252442.0411,SWITCH,PJMW,PJMW_biomass_1,Other,2050,cap_only,all,MWh
+2248223.531,SWITCH,PJMW,PJMW_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+376396.4592,SWITCH,PJMW,PJMW_hydroelectric_pumped_storage_1,Hydro,2050,cap_only,all,MWh
+365458252.5,SWITCH,PJMW,PJMW_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+50139295.92,SWITCH,PJMW,PJMW_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+4656823.466,SWITCH,PJMW,PJMW_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+94224.44922,SWITCH,PJMW,PJMW_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+2103.552,SWITCH,PJMW,PJMW_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+1067.616,SWITCH,PJMW,PJMW_natural_gas_steam_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+49870175.85,SWITCH,PJMW,PJMW_nuclear_1,Nuclear,2050,cap_only,all,MWh
+0,SWITCH,PJMW,PJMW_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+1496714.746,SWITCH,PJMW,PJMW_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+163538.1342,SWITCH,PJMW,PJMW_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+2029984.32,SWITCH,PJMW,PJMW_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+6421096.812,SWITCH,PJMW,PJMW_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_battery_moderate_1,Battery,2050,cap_only,all,MWh
+7683.810421,SWITCH,RMRG,RMRG_biomass_1,Other,2050,cap_only,all,MWh
+1954059.245,SWITCH,RMRG,RMRG_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+1157835.146,SWITCH,RMRG,RMRG_hydroelectric_pumped_storage_1,Hydro,2050,cap_only,all,MWh
+151640673.3,SWITCH,RMRG,RMRG_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+27647173.16,SWITCH,RMRG,RMRG_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+506434.4051,SWITCH,RMRG,RMRG_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+20397.48931,SWITCH,RMRG,RMRG_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+10982.208,SWITCH,RMRG,RMRG_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,RMRG,RMRG_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+11106995.6,SWITCH,RMRG,RMRG_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+1639921.92,SWITCH,RMRG,RMRG_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+3376661.561,SWITCH,RMRG,RMRG_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_battery_moderate_1,Battery,2050,cap_only,all,MWh
+2355.36,SWITCH,SPPC,SPPC_biomass_1,Other,2050,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+70770641.24,SWITCH,SPPC,SPPC_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+38449793.45,SWITCH,SPPC,SPPC_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+346794.7849,SWITCH,SPPC,SPPC_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+3967.699959,SWITCH,SPPC,SPPC_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+9473.20717,SWITCH,SPPC,SPPC_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+492.48,SWITCH,SPPC,SPPC_natural_gas_steam_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SPPC,SPPC_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+4244780.26,SWITCH,SPPC,SPPC_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+21522.816,SWITCH,SPPC,SPPC_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+46292.8692,SWITCH,SPPC,SPPC_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_battery_moderate_1,Battery,2050,cap_only,all,MWh
+60189.696,SWITCH,SPPN,SPPN_biomass_1,Other,2050,cap_only,all,MWh
+11165722.44,SWITCH,SPPN,SPPN_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+70135980.15,SWITCH,SPPN,SPPN_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+6303924.759,SWITCH,SPPN,SPPN_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+127771.3044,SWITCH,SPPN,SPPN_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+97465.0194,SWITCH,SPPN,SPPN_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+46239.68705,SWITCH,SPPN,SPPN_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+907.2,SWITCH,SPPN,SPPN_natural_gas_steam_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SPPN,SPPN_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+6989567.179,SWITCH,SPPN,SPPN_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+5961.6,SWITCH,SPPN,SPPN_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+159738.3976,SWITCH,SPPN,SPPN_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_battery_moderate_1,Battery,2050,cap_only,all,MWh
+5730.816,SWITCH,SPPS,SPPS_biomass_1,Other,2050,cap_only,all,MWh
+4315624.001,SWITCH,SPPS,SPPS_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+1003562.501,SWITCH,SPPS,SPPS_hydroelectric_pumped_storage_1,Hydro,2050,cap_only,all,MWh
+173454900.9,SWITCH,SPPS,SPPS_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+21335519.51,SWITCH,SPPS,SPPS_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+2763811.378,SWITCH,SPPS,SPPS_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+25993.89132,SWITCH,SPPS,SPPS_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+22641.69688,SWITCH,SPPS,SPPS_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SPPS,SPPS_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+14790417.12,SWITCH,SPPS,SPPS_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+4524.96,SWITCH,SPPS,SPPS_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+578454.24,SWITCH,SPPS,SPPS_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+144281.3641,SWITCH,SPPS,SPPS_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_battery_moderate_1,Battery,2050,cap_only,all,MWh
+71640.62151,SWITCH,SRCA,SRCA_biomass_1,Other,2050,cap_only,all,MWh
+2074941.823,SWITCH,SRCA,SRCA_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+5416315.185,SWITCH,SRCA,SRCA_hydroelectric_pumped_storage_1,Hydro,2050,cap_only,all,MWh
+201012455.4,SWITCH,SRCA,SRCA_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+45037063.25,SWITCH,SRCA,SRCA_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+1115202.356,SWITCH,SRCA,SRCA_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+91313.64577,SWITCH,SRCA,SRCA_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+95424996.93,SWITCH,SRCA,SRCA_nuclear_1,Nuclear,2050,cap_only,all,MWh
+0,SWITCH,SRCA,SRCA_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+12241.152,SWITCH,SRCA,SRCA_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+603351.84,SWITCH,SRCA,SRCA_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+4657966.545,SWITCH,SRCA,SRCA_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_battery_moderate_1,Battery,2050,cap_only,all,MWh
+243534.2682,SWITCH,SRCE,SRCE_biomass_1,Other,2050,cap_only,all,MWh
+8494346.581,SWITCH,SRCE,SRCE_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+3010836.015,SWITCH,SRCE,SRCE_hydroelectric_pumped_storage_1,Hydro,2050,cap_only,all,MWh
+222279478.7,SWITCH,SRCE,SRCE_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+37611202.1,SWITCH,SRCE,SRCE_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+2027593.002,SWITCH,SRCE,SRCE_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+48718.17315,SWITCH,SRCE,SRCE_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+67337350.78,SWITCH,SRCE,SRCE_nuclear_1,Nuclear,2050,cap_only,all,MWh
+0,SWITCH,SRCE,SRCE_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+663936,SWITCH,SRCE,SRCE_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+3037661.876,SWITCH,SRCE,SRCE_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_battery_moderate_1,Battery,2050,cap_only,all,MWh
+481533.9195,SWITCH,SRSE,SRSE_biomass_1,Other,2050,cap_only,all,MWh
+6166695.146,SWITCH,SRSE,SRSE_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+3760853.686,SWITCH,SRSE,SRSE_hydroelectric_pumped_storage_1,Hydro,2050,cap_only,all,MWh
+257117188.8,SWITCH,SRSE,SRSE_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+63307808.04,SWITCH,SRSE,SRSE_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+3762865.546,SWITCH,SRSE,SRSE_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+35306.78074,SWITCH,SRSE,SRSE_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+228.48,SWITCH,SRSE,SRSE_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+63532049.82,SWITCH,SRSE,SRSE_nuclear_1,Nuclear,2050,cap_only,all,MWh
+0,SWITCH,SRSE,SRSE_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+3298.272,SWITCH,SRSE,SRSE_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+51455.04,SWITCH,SRSE,SRSE_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+8203616.301,SWITCH,SRSE,SRSE_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_battery_moderate_1,Battery,2050,cap_only,all,MWh
+15530.35599,SWITCH,SRSG,SRSG_biomass_1,Other,2050,cap_only,all,MWh
+6965676.62,SWITCH,SRSG,SRSG_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+356428.8,SWITCH,SRSG,SRSG_geothermal_1,Geothermal,2050,cap_only,all,MWh
+407863.7,SWITCH,SRSG,SRSG_hydroelectric_pumped_storage_1,Hydro,2050,cap_only,all,MWh
+155479235.6,SWITCH,SRSG,SRSG_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+52131981.89,SWITCH,SRSG,SRSG_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+1721236.895,SWITCH,SRSG,SRSG_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+31557115.7,SWITCH,SRSG,SRSG_nuclear_1,Nuclear,2050,cap_only,all,MWh
+0,SWITCH,SRSG,SRSG_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+5140112.303,SWITCH,SRSG,SRSG_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+946938.72,SWITCH,SRSG,SRSG_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+6961673.894,SWITCH,SRSG,SRSG_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_battery_moderate_1,Battery,2050,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+1630824.379,SWITCH,TRE_WEST,TRE_WEST_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+82.368,SWITCH,TRE_WEST,TRE_WEST_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,TRE_WEST,TRE_WEST_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+18691255.93,SWITCH,TRE_WEST,TRE_WEST_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+214792.9591,SWITCH,TRE_WEST,TRE_WEST_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+13000806.25,SWITCH,TRE_WEST,TRE_WEST_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
+0,SWITCH,TRE,TRE_battery_moderate_1,Battery,2050,cap_only,all,MWh
+68644.39271,SWITCH,TRE,TRE_biomass_1,Other,2050,cap_only,all,MWh
+279357.5172,SWITCH,TRE,TRE_conventional_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+0,SWITCH,TRE,TRE_conventional_steam_coal_1,Coal,2050,cap_only,all,MWh
+460695557.3,SWITCH,TRE,TRE_hydrogen_ccavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+110580038.1,SWITCH,TRE,TRE_hydrogen_ctavgcf_moderate_1,Hydrogen,2050,cap_only,all,MWh
+5333015.965,SWITCH,TRE,TRE_natural_gas_fired_combined_cycle_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,TRE,TRE_natural_gas_fired_combustion_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,TRE,TRE_natural_gas_internal_combustion_engine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,TRE,TRE_natural_gas_steam_turbine_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,TRE,TRE_naturalgas_ccavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+0,SWITCH,TRE,TRE_naturalgas_ccccsavgcf_conservative_1,CCS,2050,cap_only,all,MWh
+0,SWITCH,TRE,TRE_naturalgas_ctavgcf_moderate_1,Natural Gas,2050,cap_only,all,MWh
+40362835.97,SWITCH,TRE,TRE_nuclear_1,Nuclear,2050,cap_only,all,MWh
+0,SWITCH,TRE,TRE_nuclear_nuclear_moderate_1,Nuclear,2050,cap_only,all,MWh
+7565362.24,SWITCH,TRE,TRE_onshore_wind_turbine_1,Wind,2050,cap_only,all,MWh
+615832.5985,SWITCH,TRE,TRE_petroleum_liquids_1,Other,2050,cap_only,all,MWh
+77182.56,SWITCH,TRE,TRE_small_hydroelectric_1,Hydro,2050,cap_only,all,MWh
+22087975.72,SWITCH,TRE,TRE_solar_photovoltaic_1,Solar,2050,cap_only,all,MWh
